@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proiect faculta\\Ciutre_Marco_Lab2\\Ciutre_Marco_Lab2.csproj": {}
+    "D:\\Proiect faculta\\MediiProgramare\\LaboratorWPF\\Ciutre_Marco_Lab2\\Ciutre_Marco_Lab2.csproj": {}
   },
   "projects": {
-    "D:\\Proiect faculta\\Ciutre_Marco_Lab2\\Ciutre_Marco_Lab2.csproj": {
+    "D:\\Proiect faculta\\MediiProgramare\\LaboratorWPF\\Ciutre_Marco_Lab2\\Ciutre_Marco_Lab2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proiect faculta\\Ciutre_Marco_Lab2\\Ciutre_Marco_Lab2.csproj",
+        "projectUniqueName": "D:\\Proiect faculta\\MediiProgramare\\LaboratorWPF\\Ciutre_Marco_Lab2\\Ciutre_Marco_Lab2.csproj",
         "projectName": "Ciutre_Marco_Lab2",
-        "projectPath": "D:\\Proiect faculta\\Ciutre_Marco_Lab2\\Ciutre_Marco_Lab2.csproj",
+        "projectPath": "D:\\Proiect faculta\\MediiProgramare\\LaboratorWPF\\Ciutre_Marco_Lab2\\Ciutre_Marco_Lab2.csproj",
         "packagesPath": "C:\\Users\\sinne\\.nuget\\packages\\",
-        "outputPath": "D:\\Proiect faculta\\Ciutre_Marco_Lab2\\obj\\",
+        "outputPath": "D:\\Proiect faculta\\MediiProgramare\\LaboratorWPF\\Ciutre_Marco_Lab2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
